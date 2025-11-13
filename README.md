@@ -25,3 +25,27 @@
     * It describes the full transistor operation, considering nonlinearities and the transistor’s actual I–V curves (cutoff, triode, saturation).
 * It determines the maximum output swing, bias point, and distortion limits.
 * In short: AC signal in → amplified AC signal out.
+
+<h2>Photos</h2>
+
+<h3>Schematic</h3>
+
+![alt text][schematic]
+
+<h3>PCB Front</h3>
+
+![alt text][layout-front]
+
+<h3>PCB Back</h3>
+
+![alt text][layout-back]
+
+<h3>3D Model</h3>
+
+![alt text][threed-model]
+
+
+[schematic]: https://github.com/Ryan-Perera/PCBs/blob/main/Schematic.png
+[layout-front]: https://github.com/Ryan-Perera/PCBs/blob/main/Layout-Front.png
+[layout-back]: https://github.com/Ryan-Perera/PCBs/blob/main/Layout-Back.png
+[threed-model]: https://github.com/Ryan-Perera/PCBs/blob/main/3D-model.png
