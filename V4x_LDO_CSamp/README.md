@@ -45,7 +45,7 @@
 ![alt text][threed-model]
 
 
-[schematic]: https://github.com/Ryan-Perera/PCBs/blob/main/Schematic.png
-[layout-front]: https://github.com/Ryan-Perera/PCBs/blob/main/Layout-Front.png
-[layout-back]: https://github.com/Ryan-Perera/PCBs/blob/main/Layout-Back.png
-[threed-model]: https://github.com/Ryan-Perera/PCBs/blob/main/3D-model.png
+[schematic]: Schematic.png
+[layout-front]: Layout-Front.png
+[layout-back]: Layout-Back.png
+[threed-model]: 3D-model.png
