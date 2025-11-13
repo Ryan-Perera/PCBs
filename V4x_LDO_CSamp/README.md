@@ -19,10 +19,6 @@
 **3. Common Source Amplifier**
 * A common source amplifier is a fundamental MOSFET amplifier topology used for voltage gain.
 * The source terminal is common (usually tied to ground), the input signal is applied to the gate, and the output is taken from the drain.
-* Small-signal behaviour:
-    * It provides significant voltage gain because variations in gate voltage modulate the drain current, which produces amplified voltage swings across the load resistor.
-* Large-signal behaviour:
-    * It describes the full transistor operation, considering nonlinearities and the transistor’s actual I–V curves (cutoff, triode, saturation).
 * It determines the maximum output swing, bias point, and distortion limits.
 * In short: AC signal in → amplified AC signal out.
 
